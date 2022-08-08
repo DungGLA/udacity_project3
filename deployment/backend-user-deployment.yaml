@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
         - name: backend-user-node
-          image: dunggla2304/udagram-api-user:v2
+          image: dunggla2304/udagram-api-user:v4
           imagePullPolicy: Always
           resources:
             requests:
