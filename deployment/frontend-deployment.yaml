@@ -19,7 +19,7 @@ spec:
           image: dunggla2304/udagram-frontend:latest
           imagePullPolicy: Always
           ports:
-            - containerPort: 8100
+            - containerPort: 80
           resources:
             limits:
               memory: "128Mi"
