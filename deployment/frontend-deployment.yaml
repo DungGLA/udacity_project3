@@ -15,7 +15,7 @@ spec:
         app: frontend
     spec:
       containers:
-        - name: frontend-node
+        - name: frontend
           image: dunggla2304/udagram-frontend:v2
           imagePullPolicy: Always
           ports:
