@@ -9,4 +9,4 @@ data:
   JWT_SECRET: hello
   POSTGRES_DB: postgres
   POSTGRES_HOST: project3udacity.cvrhlttibqcj.us-east-1.rds.amazonaws.com
-  URL: http://localhost:8100
+  URL: http://af57af54260b142dc9ffa7f22775f3c8-1631559643.us-east-1.elb.amazonaws.com:8100
