@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
         - name: reverseproxy-node
-          image: dunggla2304/reverseproxy:latest
+          image: dunggla2304/reverseproxy:v1
           imagePullPolicy: Always
           resources:
             requests:
